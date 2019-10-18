@@ -14,7 +14,9 @@ let waitList = [
     customerEmail: "kevin@gmail.com",
     customerId: "5"
     }
-    var customers = [
+  ]
+
+  let customers = [
       {
         customerName: "Sharon",
         phoneNumber: "8178329622",
